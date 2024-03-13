@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE presentation SYSTEM "jabberpoint.dtd">
+<presentation>
+	<showtitle>XML-Based Presentation for Jabberpoint</showtitle>
+	<slide>
+		<title>JabberPoint XML-Demo</title>
+		<item kind="text"  level="1">Welkom bij Jabberpoint</item>
+		<item kind="text"  level="2">Copyright (c) 1996-2000 Ian Darwin</item>
+		<item kind="text"  level="2">Herschreven door</item>
+		<item kind="text"  level="2">Gert Florijn, Mark van Elswijk, Marc Evers</item>
+		<item kind="text"  level="2">en Sylvia Stuurman</item>
+		<item kind="text"  level="1">Navigatie:</item>
+		<item kind="text"  level="2">Volgende slide: PgDn or Enter</item>
+		<item kind="text"  level="2">Vorige slide: PgUp or up-arrow</item>
+		<item kind="text"  level="2">Stoppen: q or Q</item>
+	</slide>
+	<slide>
+		<title>Een bijna lege slide</title>
+		<item kind="text"  level="1"> </item>
+	</slide>
+	<slide>
+		<title>Achtergrond</title>
+		<item kind="text"  level="1">Jabberpoint is een oefening voor de</item>
+		<item kind="text"  level="1">cursus Design patterns van de Open universiteit</item>
+		<item kind="text"  level="1"> </item>
+		<item kind="image"  level="2">logo-woordmerk_ou.gif</item>
+		<item kind="text"  level="1"> </item>
+		<item kind="text"  level="1">De oefening is ontwikeld door het SERC</item>
+		<item kind="text"  level="1">in samenwerking met de Open universiteit </item>
+		<item kind="text"  level="1"> </item>
+		<item kind="image"  level="2">serclogo_fc.jpg</item>
+	</slide>
+	<slide>
+		<title>JabberPoint: Levels en stijlen</title>
+		<item kind="text"  level="1">Level 1</item>
+		<item kind="text"  level="2">Level 2</item>
+		<item kind="text"  level="1">A Jabberful Point</item>
+		<item kind="text"  level="2">Level 2 heeft stijl 2</item>
+		<item kind="text"  level="3">Zo ziet de stijl van level 3 er uit</item>
+		<item kind="text"  level="4">En dit is level 4</item>
+	</slide>
+	<slide>
+		<title>Laatste slide</title>
+		<item kind="text"  level="1">Navigatie kan ook via het menu</item>
+		<item kind="text"  level="2">Presentatie laden: File->Open</item>
+		<item kind="text"  level="1"> </item>
+		<item kind="text"  level="1">Dit is het einde van de presentatie.</item>
+		<item kind="image"  level="1">JabberPoint.jpg</item>
+		<item kind="text"  level="1">Tot ziens.</item>
+	</slide>
+</presentation>
