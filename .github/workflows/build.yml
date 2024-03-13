@@ -43,8 +43,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: ./gradlew build sonar --info
-
-      - name: Run additional actions
-        run: |
-          # Add other actions to build, test, and deploy your project here
-          echo Additional actions can be added here
