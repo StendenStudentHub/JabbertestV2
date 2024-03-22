@@ -1,8 +1,8 @@
 package com.nhlstenden.command;
 
-public class CmdClearOrBack extends Command
+public class CmdPreviousSlide extends Command
 {
-    public CmdClearOrBack(SlideViewer slideViewer)
+    public CmdPreviousSlide(SlideViewer slideViewer)
     {
         super(slideViewer);
     }
@@ -10,7 +10,7 @@ public class CmdClearOrBack extends Command
     @Override
     public void execute()
     {
-        this.getSlideViewer().clearItemsOrBack();
+        this.getSlideViewer().prevSlide();
         this.getSlideViewer().updateView();
     }
 }
